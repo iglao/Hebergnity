@@ -1,3 +1,3 @@
-- 👋 Hi, we are @Hebergnity
-- 👀 French hosting and cloud company started in 2014
-- 📫 You can contact us at contact[@]hebergnity[.]com
+- 👋 Hi, we are @iglao - Innovate, Grow, Link, Achieve, Operate
+- 👀 French hosting and cloud company started in 2017
+- 📫 You can contact us at hello[@]iglao[.]com
